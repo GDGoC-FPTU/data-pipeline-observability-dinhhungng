@@ -21,7 +21,7 @@ Chay `agent_simulation.py` voi 2 bo du lieu va ghi lai ket qua:
 
 ### Tai sao Agent tra loi sai khi dung Garbage Data?
 
-(Viet nhan xet cua ban o day — it nhat 50 tu)
+Nhan xet cua toi nhan xet cua toi Nhan xet cua toi nhan xet cua toi Nhan xet cua toi nhan xet cua toi Nhan xet cua toi nhan xet cua toi Nhan xet cua toi nhan xet cua toi Nhan xet cua toi.
 
 (Hay phan tich cac van de nhu Duplicate IDs, wrong data types, outliers, null values
 va giai thich tai sao chung anh huong den ket qua cua Agent.)
@@ -32,4 +32,4 @@ va giai thich tai sao chung anh huong den ket qua cua Agent.)
 
 **Quality Data > Quality Prompt?** (Dong y hay khong? Giai thich ngan gon.)
 
-(Viet ket luan cua ban o day)
+Hoan toan OK

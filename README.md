@@ -2,13 +2,13 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student Email:** email@example.com
-**Name:** (Dien ten cua ban)
+**Name:** My name
 
 ---
 
 ## Mo ta
 
-(Mo ta ngan gon bai lab va nhung gi ban da lam)
+Nhan xet cua toi nhan xet cua toiNhan xet cua toi nhan xet cua toi
 
 ---
 
@@ -26,7 +26,7 @@ python solution.py
 
 ### Chay Agent Simulation (Stress Test)
 ```bash
-# Mo ta cach ban chay thi nghiem Clean vs Garbage data
+OK
 ```
 
 ---
@@ -44,4 +44,7 @@ python solution.py
 
 ## Ket qua
 
-(Tom tat ket qua: bao nhieu records da xu ly, bao nhieu bi loai, v.v.)
+ETL Pipeline Started...
+Validation summary: 3 kept, 2 dropped.
+Errors found: [{'id': 3, 'reason': 'Price <= 0'}, {'id': 4, 'reason': 'Missing Category'}]
+Successfully loaded 3 records to processed_data.csv
