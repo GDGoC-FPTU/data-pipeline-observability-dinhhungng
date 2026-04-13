@@ -26,7 +26,8 @@ python solution.py
 
 ### Chay Agent Simulation (Stress Test)
 ```bash
-OK
+pip install pandas
+python agent_simulation.py
 ```
 
 ---
